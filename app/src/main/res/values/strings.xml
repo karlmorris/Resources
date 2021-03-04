@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyResourcesApp</string>
+    <string name="form_enter_name">Enter Name</string>
+    <string name="form_enter_password">Enter Password</string>
+    <string name="form_enter_email">Enter Email</string>
+    <string name="form_sign_up">Sign Up</string>
+
+    <string name="error_name">Please enter your name</string>
+    <string name="welcome_message">Welcome!</string>
+</resources>

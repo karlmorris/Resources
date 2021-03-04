@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyResourcesApp</string>
+    <string name="form_enter_name">输入名字</string>
+    <string name="form_enter_password">输入密码</string>
+    <string name="form_enter_email">输入邮箱</string>
+    <string name="form_sign_up">注册</string>
+
+    <string name="error_name">请输入名字</string>
+    <string name="welcome_message">欢迎</string>
+</resources>
